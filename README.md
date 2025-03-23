@@ -35,14 +35,8 @@
 - **Scikit-learn** (Machine Learning)  
 - **Matplotlib & Seaborn** (Visualization)  
 
-## 🔍 Evaluation Criteria  
-- **Functionality:** How well the model predicts species.  
-- **Code Quality:** Clean, well-structured, and efficient code.  
-- **Innovation & Creativity:** Feature selection and optimization techniques used.  
-- **Documentation:** Clear explanations of implementation.  
-
 ---
 
-**👨‍💻 Author:** _[Your Name]_  
-📌 **GitHub Repo:** [Your Repository Link]
+**👨‍💻 Author:** NOBITA DABAS   
+
 
